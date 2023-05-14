@@ -1,0 +1,6 @@
+.parcel-cache
+.cache
+.vscode/settings.json
+node_modules
+dump.txt
+dist
